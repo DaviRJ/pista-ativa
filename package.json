@@ -1,0 +1,11 @@
+{
+  "name": "pista-ativa",
+  "version": "0.0.1",
+  "description": "Um localizador de pista ativa (feito para simuladores)",
+  "main": "src/index.js",
+  "author": "Davi Bezerra",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
